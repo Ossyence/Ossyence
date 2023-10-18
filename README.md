@@ -2,25 +2,16 @@
 
 > I love you garfield 🤑🤤
 
-<img src="https://images.weserv.nl/?url=https://github.com/Ossyence/Ossyence/assets/110287364/f9eccd28-5730-4f9c-a50a-512a66006660" align="left" border-radius="90px">
+<img src="https://images.weserv.nl/?url=https://github.com/Ossyence/Ossyence/assets/110287364/f9eccd28-5730-4f9c-a50a-512a66006660?v=4&h=150&w=150&fit=cover&mask=circle&maxage=7d" align="left">
 
-### Some languages I know
-* C# (Unity, WPF, Winforms, Command-line)
-* Python
-* Lua
-* Web Dev (HTML, CSS, Javascript)
+### Stuff I know
+* **C#** _(Unity, WPF, Winforms, Command-line)_
+* **Python**
+* **Lua** _(Roblox)_
+* **Web Dev** _(HTML, CSS, Javascript)_
 
-<!--
-**Ossyence/Ossyence** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Working on
+- [**Roblox Studio Theme Manager**](https://github.com/Ossyence/Studio-Theme-Manager)
+- **Nothing else rn 🤑🤑🤑💰💰**
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> Garfield is so me 🐈🙀
