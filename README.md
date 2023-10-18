@@ -2,7 +2,7 @@
 
 > I love you garfield 🤑🤤
 
-<img src="https://github.com/Ossyence/Ossyence/assets/110287364/f9eccd28-5730-4f9c-a50a-512a66006660" align="left">
+<img src="https://images.weserv.nl/?url=https://github.com/Ossyence/Ossyence/assets/110287364/f9eccd28-5730-4f9c-a50a-512a66006660" align="left" border-radius="90px">
 
 ### Some languages I know
 * C# (Unity, WPF, Winforms, Command-line)
