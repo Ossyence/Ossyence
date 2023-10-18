@@ -1,4 +1,14 @@
-### Hi there 👋
+## Ossyence (@ossyence)
+
+> I love you garfield 🤑🤤
+
+<img src="https://github.com/Ossyence/Ossyence/assets/110287364/f9eccd28-5730-4f9c-a50a-512a66006660" align="left">
+
+### Some languages I know
+* C# (Unity, WPF, Winforms, Command-line)
+* Python
+* Lua
+* Web Dev (HTML, CSS, Javascript)
 
 <!--
 **Ossyence/Ossyence** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
