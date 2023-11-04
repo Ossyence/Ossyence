@@ -7,7 +7,7 @@
 ***Stuff I usually make:***
 _Roblox games_, _Windows/Universal Apps_, _Some helpful tools_
 
-***Good stuff I made:***
+***Good stuff I made/making:***
 [**Roblox Studio Theme Manager**](https://github.com/Ossyence/Studio-Theme-Manager)
 ⠀
 > Garfield is so me 🐈🙀 I LOVE YOU GARFIELD
